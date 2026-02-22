@@ -266,7 +266,8 @@ It does not contain offensive capabilities.
 
 MIT License
 
-👤 Author
 
-Your Name
-Cybersecurity & AI Research
+
+yograj yadav
+ai&ds
+
